@@ -1,0 +1,1001 @@
+review_id,product,review_text,rating,date
+1,Smart Watch,Great value for the price.,4,2025-04-21
+2,Laptop Stand,Excellent product! Very satisfied.,4,2025-04-21
+3,Keyboard,Excellent product! Very satisfied.,4,2025-04-21
+4,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+5,Laptop Stand,Not worth the money.,2,2025-04-21
+6,Bluetooth Speaker,Sound quality is amazing and very durable.,5,2025-04-21
+7,Gaming Mouse,Not worth the money.,1,2025-04-21
+8,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+9,Smart Watch,"Very disappointed, poor quality.",3,2025-04-21
+10,Bluetooth Speaker,"Absolutely love it, would buy again.",4,2025-04-21
+11,Keyboard,Super convenient and reliable.,5,2025-04-21
+12,Gaming Mouse,Excellent product! Very satisfied.,4,2025-04-21
+13,Laptop Stand,"Terrible experience, broke in a week.",1,2025-04-21
+14,Smart Watch,"Very disappointed, poor quality.",2,2025-04-21
+15,Gaming Mouse,Great value for the price.,5,2025-04-21
+16,Laptop Stand,"Terrible experience, broke in a week.",3,2025-04-21
+17,Phone Case,Sound quality is amazing and very durable.,5,2025-04-21
+18,Keyboard,Would not recommend to anyone.,1,2025-04-21
+19,Gaming Mouse,Sound quality is amazing and very durable.,4,2025-04-21
+20,Gaming Mouse,"Very disappointed, poor quality.",1,2025-04-21
+21,Laptop Stand,Not worth the money.,3,2025-04-21
+22,Tablet,Stopped working after a few uses.,1,2025-04-21
+23,Bluetooth Speaker,Sound quality is amazing and very durable.,5,2025-04-21
+24,Keyboard,"Very disappointed, poor quality.",1,2025-04-21
+25,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+26,Smart Watch,Sound quality is amazing and very durable.,5,2025-04-21
+27,Smart Watch,Stopped working after a few uses.,3,2025-04-21
+28,Tablet,Would not recommend to anyone.,1,2025-04-21
+29,Smart Watch,"Very disappointed, poor quality.",1,2025-04-21
+30,Bluetooth Speaker,Not worth the money.,2,2025-04-21
+31,Wireless Earbuds,Would not recommend to anyone.,1,2025-04-21
+32,Smart Watch,Would not recommend to anyone.,3,2025-04-21
+33,Laptop Stand,Great value for the price.,4,2025-04-21
+34,Wireless Earbuds,Stopped working after a few uses.,1,2025-04-21
+35,Smart Watch,"Very disappointed, poor quality.",1,2025-04-21
+36,Wireless Earbuds,Super convenient and reliable.,4,2025-04-21
+37,Smart Watch,"Terrible experience, broke in a week.",3,2025-04-21
+38,Phone Case,"Absolutely love it, would buy again.",4,2025-04-21
+39,Bluetooth Speaker,Not worth the money.,3,2025-04-21
+40,Laptop Stand,Stopped working after a few uses.,3,2025-04-21
+41,Gaming Mouse,Would not recommend to anyone.,2,2025-04-21
+42,Smart Watch,Sound quality is amazing and very durable.,4,2025-04-21
+43,Gaming Mouse,Super convenient and reliable.,4,2025-04-21
+44,Laptop Stand,Excellent product! Very satisfied.,4,2025-04-21
+45,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+46,Smart Watch,Great value for the price.,5,2025-04-21
+47,Laptop Stand,Super convenient and reliable.,5,2025-04-21
+48,Laptop Stand,Stopped working after a few uses.,1,2025-04-21
+49,Smart Watch,"Absolutely love it, would buy again.",5,2025-04-21
+50,Keyboard,Stopped working after a few uses.,3,2025-04-21
+51,Wireless Earbuds,Excellent product! Very satisfied.,5,2025-04-21
+52,Gaming Mouse,Sound quality is amazing and very durable.,4,2025-04-21
+53,Laptop Stand,Not worth the money.,2,2025-04-21
+54,Phone Case,Stopped working after a few uses.,1,2025-04-21
+55,Smart Watch,Would not recommend to anyone.,1,2025-04-21
+56,Wireless Earbuds,Excellent product! Very satisfied.,4,2025-04-21
+57,Phone Case,Stopped working after a few uses.,2,2025-04-21
+58,Laptop Stand,"Terrible experience, broke in a week.",1,2025-04-21
+59,Keyboard,"Absolutely love it, would buy again.",5,2025-04-21
+60,Tablet,Stopped working after a few uses.,3,2025-04-21
+61,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+62,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+63,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+64,Phone Case,Super convenient and reliable.,4,2025-04-21
+65,Phone Case,Super convenient and reliable.,4,2025-04-21
+66,Laptop Stand,"Terrible experience, broke in a week.",3,2025-04-21
+67,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+68,Keyboard,"Very disappointed, poor quality.",1,2025-04-21
+69,Gaming Mouse,Great value for the price.,5,2025-04-21
+70,Phone Case,Stopped working after a few uses.,2,2025-04-21
+71,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+72,Smart Watch,Super convenient and reliable.,5,2025-04-21
+73,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+74,Gaming Mouse,Not worth the money.,2,2025-04-21
+75,Bluetooth Speaker,Super convenient and reliable.,5,2025-04-21
+76,Smart Watch,Great value for the price.,4,2025-04-21
+77,Smart Watch,Great value for the price.,5,2025-04-21
+78,Laptop Stand,Not worth the money.,3,2025-04-21
+79,Bluetooth Speaker,"Very disappointed, poor quality.",1,2025-04-21
+80,Smart Watch,"Very disappointed, poor quality.",1,2025-04-21
+81,Wireless Earbuds,Not worth the money.,3,2025-04-21
+82,Bluetooth Speaker,"Absolutely love it, would buy again.",5,2025-04-21
+83,Wireless Earbuds,Excellent product! Very satisfied.,4,2025-04-21
+84,Wireless Earbuds,Would not recommend to anyone.,3,2025-04-21
+85,Phone Case,Not worth the money.,1,2025-04-21
+86,Bluetooth Speaker,"Terrible experience, broke in a week.",2,2025-04-21
+87,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+88,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+89,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+90,Gaming Mouse,Not worth the money.,2,2025-04-21
+91,Phone Case,"Absolutely love it, would buy again.",4,2025-04-21
+92,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+93,Gaming Mouse,Not worth the money.,1,2025-04-21
+94,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+95,Bluetooth Speaker,Great value for the price.,5,2025-04-21
+96,Keyboard,"Terrible experience, broke in a week.",1,2025-04-21
+97,Bluetooth Speaker,Super convenient and reliable.,5,2025-04-21
+98,Wireless Earbuds,Super convenient and reliable.,5,2025-04-21
+99,Gaming Mouse,Stopped working after a few uses.,3,2025-04-21
+100,Smart Watch,Would not recommend to anyone.,1,2025-04-21
+101,Bluetooth Speaker,"Absolutely love it, would buy again.",4,2025-04-21
+102,Laptop Stand,Stopped working after a few uses.,1,2025-04-21
+103,Gaming Mouse,"Terrible experience, broke in a week.",3,2025-04-21
+104,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+105,Keyboard,Would not recommend to anyone.,1,2025-04-21
+106,Laptop Stand,Stopped working after a few uses.,3,2025-04-21
+107,Phone Case,Stopped working after a few uses.,3,2025-04-21
+108,Wireless Earbuds,"Very disappointed, poor quality.",1,2025-04-21
+109,Keyboard,Stopped working after a few uses.,2,2025-04-21
+110,Tablet,Super convenient and reliable.,5,2025-04-21
+111,Phone Case,Great value for the price.,5,2025-04-21
+112,Smart Watch,Great value for the price.,4,2025-04-21
+113,Laptop Stand,Excellent product! Very satisfied.,4,2025-04-21
+114,Laptop Stand,Would not recommend to anyone.,1,2025-04-21
+115,Tablet,Would not recommend to anyone.,1,2025-04-21
+116,Keyboard,Stopped working after a few uses.,1,2025-04-21
+117,Phone Case,Excellent product! Very satisfied.,5,2025-04-21
+118,Laptop Stand,Super convenient and reliable.,5,2025-04-21
+119,Wireless Earbuds,Excellent product! Very satisfied.,5,2025-04-21
+120,Phone Case,Would not recommend to anyone.,3,2025-04-21
+121,Gaming Mouse,Would not recommend to anyone.,3,2025-04-21
+122,Keyboard,Not worth the money.,3,2025-04-21
+123,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+124,Bluetooth Speaker,Not worth the money.,2,2025-04-21
+125,Tablet,Great value for the price.,4,2025-04-21
+126,Bluetooth Speaker,"Very disappointed, poor quality.",3,2025-04-21
+127,Smart Watch,Sound quality is amazing and very durable.,4,2025-04-21
+128,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+129,Keyboard,"Very disappointed, poor quality.",3,2025-04-21
+130,Tablet,"Terrible experience, broke in a week.",1,2025-04-21
+131,Keyboard,Would not recommend to anyone.,3,2025-04-21
+132,Wireless Earbuds,Stopped working after a few uses.,1,2025-04-21
+133,Gaming Mouse,Stopped working after a few uses.,2,2025-04-21
+134,Laptop Stand,Not worth the money.,2,2025-04-21
+135,Keyboard,"Terrible experience, broke in a week.",2,2025-04-21
+136,Gaming Mouse,Not worth the money.,2,2025-04-21
+137,Phone Case,"Absolutely love it, would buy again.",4,2025-04-21
+138,Smart Watch,Not worth the money.,2,2025-04-21
+139,Phone Case,Great value for the price.,5,2025-04-21
+140,Gaming Mouse,"Absolutely love it, would buy again.",5,2025-04-21
+141,Gaming Mouse,"Very disappointed, poor quality.",2,2025-04-21
+142,Bluetooth Speaker,"Absolutely love it, would buy again.",4,2025-04-21
+143,Wireless Earbuds,Not worth the money.,3,2025-04-21
+144,Smart Watch,Excellent product! Very satisfied.,4,2025-04-21
+145,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+146,Laptop Stand,"Absolutely love it, would buy again.",4,2025-04-21
+147,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+148,Phone Case,Sound quality is amazing and very durable.,5,2025-04-21
+149,Smart Watch,Great value for the price.,5,2025-04-21
+150,Keyboard,Excellent product! Very satisfied.,4,2025-04-21
+151,Smart Watch,Would not recommend to anyone.,1,2025-04-21
+152,Wireless Earbuds,Would not recommend to anyone.,2,2025-04-21
+153,Gaming Mouse,Super convenient and reliable.,5,2025-04-21
+154,Wireless Earbuds,Stopped working after a few uses.,1,2025-04-21
+155,Keyboard,Stopped working after a few uses.,3,2025-04-21
+156,Phone Case,Not worth the money.,3,2025-04-21
+157,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+158,Bluetooth Speaker,Not worth the money.,1,2025-04-21
+159,Bluetooth Speaker,Not worth the money.,2,2025-04-21
+160,Keyboard,"Terrible experience, broke in a week.",2,2025-04-21
+161,Gaming Mouse,"Absolutely love it, would buy again.",4,2025-04-21
+162,Gaming Mouse,"Very disappointed, poor quality.",2,2025-04-21
+163,Bluetooth Speaker,Super convenient and reliable.,4,2025-04-21
+164,Smart Watch,"Absolutely love it, would buy again.",5,2025-04-21
+165,Laptop Stand,Stopped working after a few uses.,2,2025-04-21
+166,Wireless Earbuds,Great value for the price.,4,2025-04-21
+167,Keyboard,Great value for the price.,5,2025-04-21
+168,Tablet,Stopped working after a few uses.,3,2025-04-21
+169,Gaming Mouse,Stopped working after a few uses.,2,2025-04-21
+170,Bluetooth Speaker,Not worth the money.,1,2025-04-21
+171,Laptop Stand,"Terrible experience, broke in a week.",3,2025-04-21
+172,Phone Case,Sound quality is amazing and very durable.,5,2025-04-21
+173,Bluetooth Speaker,"Terrible experience, broke in a week.",1,2025-04-21
+174,Bluetooth Speaker,Great value for the price.,4,2025-04-21
+175,Bluetooth Speaker,Super convenient and reliable.,4,2025-04-21
+176,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+177,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+178,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+179,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+180,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+181,Tablet,Super convenient and reliable.,4,2025-04-21
+182,Phone Case,Super convenient and reliable.,5,2025-04-21
+183,Smart Watch,Excellent product! Very satisfied.,5,2025-04-21
+184,Laptop Stand,Stopped working after a few uses.,2,2025-04-21
+185,Bluetooth Speaker,"Very disappointed, poor quality.",3,2025-04-21
+186,Wireless Earbuds,Sound quality is amazing and very durable.,4,2025-04-21
+187,Bluetooth Speaker,Sound quality is amazing and very durable.,4,2025-04-21
+188,Phone Case,Sound quality is amazing and very durable.,4,2025-04-21
+189,Keyboard,Would not recommend to anyone.,2,2025-04-21
+190,Bluetooth Speaker,Sound quality is amazing and very durable.,5,2025-04-21
+191,Bluetooth Speaker,"Terrible experience, broke in a week.",3,2025-04-21
+192,Laptop Stand,Would not recommend to anyone.,3,2025-04-21
+193,Laptop Stand,"Terrible experience, broke in a week.",3,2025-04-21
+194,Laptop Stand,Great value for the price.,4,2025-04-21
+195,Smart Watch,Sound quality is amazing and very durable.,5,2025-04-21
+196,Bluetooth Speaker,"Terrible experience, broke in a week.",2,2025-04-21
+197,Bluetooth Speaker,"Very disappointed, poor quality.",3,2025-04-21
+198,Tablet,"Terrible experience, broke in a week.",3,2025-04-21
+199,Wireless Earbuds,"Very disappointed, poor quality.",3,2025-04-21
+200,Bluetooth Speaker,Excellent product! Very satisfied.,4,2025-04-21
+201,Wireless Earbuds,Would not recommend to anyone.,1,2025-04-21
+202,Phone Case,Would not recommend to anyone.,3,2025-04-21
+203,Tablet,Not worth the money.,3,2025-04-21
+204,Keyboard,"Terrible experience, broke in a week.",2,2025-04-21
+205,Gaming Mouse,"Very disappointed, poor quality.",2,2025-04-21
+206,Smart Watch,Great value for the price.,5,2025-04-21
+207,Tablet,Stopped working after a few uses.,3,2025-04-21
+208,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+209,Bluetooth Speaker,"Terrible experience, broke in a week.",2,2025-04-21
+210,Wireless Earbuds,Stopped working after a few uses.,1,2025-04-21
+211,Laptop Stand,Would not recommend to anyone.,2,2025-04-21
+212,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+213,Phone Case,Stopped working after a few uses.,3,2025-04-21
+214,Tablet,Excellent product! Very satisfied.,4,2025-04-21
+215,Phone Case,Would not recommend to anyone.,1,2025-04-21
+216,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+217,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+218,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+219,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+220,Keyboard,Super convenient and reliable.,4,2025-04-21
+221,Smart Watch,Stopped working after a few uses.,2,2025-04-21
+222,Bluetooth Speaker,Great value for the price.,5,2025-04-21
+223,Tablet,"Absolutely love it, would buy again.",5,2025-04-21
+224,Gaming Mouse,Would not recommend to anyone.,3,2025-04-21
+225,Keyboard,"Very disappointed, poor quality.",1,2025-04-21
+226,Laptop Stand,Not worth the money.,2,2025-04-21
+227,Wireless Earbuds,Stopped working after a few uses.,3,2025-04-21
+228,Keyboard,Not worth the money.,2,2025-04-21
+229,Wireless Earbuds,Super convenient and reliable.,5,2025-04-21
+230,Smart Watch,"Terrible experience, broke in a week.",3,2025-04-21
+231,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+232,Phone Case,"Absolutely love it, would buy again.",5,2025-04-21
+233,Gaming Mouse,"Terrible experience, broke in a week.",2,2025-04-21
+234,Keyboard,Stopped working after a few uses.,3,2025-04-21
+235,Wireless Earbuds,Sound quality is amazing and very durable.,5,2025-04-21
+236,Laptop Stand,"Absolutely love it, would buy again.",4,2025-04-21
+237,Smart Watch,Not worth the money.,3,2025-04-21
+238,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+239,Wireless Earbuds,"Very disappointed, poor quality.",2,2025-04-21
+240,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+241,Phone Case,Sound quality is amazing and very durable.,4,2025-04-21
+242,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+243,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+244,Bluetooth Speaker,"Absolutely love it, would buy again.",5,2025-04-21
+245,Phone Case,"Absolutely love it, would buy again.",5,2025-04-21
+246,Bluetooth Speaker,"Very disappointed, poor quality.",2,2025-04-21
+247,Bluetooth Speaker,"Absolutely love it, would buy again.",5,2025-04-21
+248,Smart Watch,"Absolutely love it, would buy again.",5,2025-04-21
+249,Bluetooth Speaker,"Terrible experience, broke in a week.",3,2025-04-21
+250,Keyboard,"Terrible experience, broke in a week.",3,2025-04-21
+251,Wireless Earbuds,"Very disappointed, poor quality.",1,2025-04-21
+252,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+253,Phone Case,Excellent product! Very satisfied.,5,2025-04-21
+254,Tablet,Super convenient and reliable.,5,2025-04-21
+255,Phone Case,Great value for the price.,5,2025-04-21
+256,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+257,Gaming Mouse,Not worth the money.,2,2025-04-21
+258,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+259,Tablet,Sound quality is amazing and very durable.,4,2025-04-21
+260,Keyboard,"Terrible experience, broke in a week.",2,2025-04-21
+261,Wireless Earbuds,Would not recommend to anyone.,1,2025-04-21
+262,Tablet,"Very disappointed, poor quality.",3,2025-04-21
+263,Keyboard,"Terrible experience, broke in a week.",3,2025-04-21
+264,Laptop Stand,"Terrible experience, broke in a week.",3,2025-04-21
+265,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+266,Bluetooth Speaker,"Terrible experience, broke in a week.",1,2025-04-21
+267,Wireless Earbuds,Great value for the price.,5,2025-04-21
+268,Smart Watch,Sound quality is amazing and very durable.,4,2025-04-21
+269,Keyboard,"Very disappointed, poor quality.",3,2025-04-21
+270,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+271,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+272,Gaming Mouse,"Absolutely love it, would buy again.",5,2025-04-21
+273,Laptop Stand,"Terrible experience, broke in a week.",3,2025-04-21
+274,Gaming Mouse,"Terrible experience, broke in a week.",2,2025-04-21
+275,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+276,Smart Watch,Super convenient and reliable.,4,2025-04-21
+277,Wireless Earbuds,Not worth the money.,1,2025-04-21
+278,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+279,Laptop Stand,Great value for the price.,4,2025-04-21
+280,Wireless Earbuds,Not worth the money.,1,2025-04-21
+281,Bluetooth Speaker,Excellent product! Very satisfied.,4,2025-04-21
+282,Phone Case,Great value for the price.,4,2025-04-21
+283,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+284,Wireless Earbuds,"Absolutely love it, would buy again.",4,2025-04-21
+285,Smart Watch,Stopped working after a few uses.,2,2025-04-21
+286,Smart Watch,Would not recommend to anyone.,1,2025-04-21
+287,Wireless Earbuds,Stopped working after a few uses.,3,2025-04-21
+288,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+289,Keyboard,"Absolutely love it, would buy again.",5,2025-04-21
+290,Smart Watch,Great value for the price.,4,2025-04-21
+291,Smart Watch,Great value for the price.,5,2025-04-21
+292,Keyboard,Stopped working after a few uses.,3,2025-04-21
+293,Keyboard,Excellent product! Very satisfied.,4,2025-04-21
+294,Keyboard,Not worth the money.,2,2025-04-21
+295,Gaming Mouse,Stopped working after a few uses.,2,2025-04-21
+296,Smart Watch,Stopped working after a few uses.,2,2025-04-21
+297,Bluetooth Speaker,Not worth the money.,3,2025-04-21
+298,Tablet,Excellent product! Very satisfied.,4,2025-04-21
+299,Smart Watch,"Terrible experience, broke in a week.",3,2025-04-21
+300,Gaming Mouse,Super convenient and reliable.,4,2025-04-21
+301,Gaming Mouse,"Absolutely love it, would buy again.",5,2025-04-21
+302,Keyboard,Great value for the price.,5,2025-04-21
+303,Gaming Mouse,Super convenient and reliable.,4,2025-04-21
+304,Phone Case,Not worth the money.,1,2025-04-21
+305,Gaming Mouse,"Terrible experience, broke in a week.",2,2025-04-21
+306,Laptop Stand,Would not recommend to anyone.,3,2025-04-21
+307,Wireless Earbuds,"Terrible experience, broke in a week.",1,2025-04-21
+308,Bluetooth Speaker,"Very disappointed, poor quality.",2,2025-04-21
+309,Wireless Earbuds,Sound quality is amazing and very durable.,5,2025-04-21
+310,Smart Watch,Excellent product! Very satisfied.,4,2025-04-21
+311,Laptop Stand,Stopped working after a few uses.,2,2025-04-21
+312,Gaming Mouse,Great value for the price.,5,2025-04-21
+313,Gaming Mouse,Excellent product! Very satisfied.,4,2025-04-21
+314,Phone Case,Excellent product! Very satisfied.,5,2025-04-21
+315,Tablet,Stopped working after a few uses.,3,2025-04-21
+316,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+317,Smart Watch,Stopped working after a few uses.,1,2025-04-21
+318,Bluetooth Speaker,Would not recommend to anyone.,3,2025-04-21
+319,Bluetooth Speaker,Sound quality is amazing and very durable.,5,2025-04-21
+320,Wireless Earbuds,Sound quality is amazing and very durable.,5,2025-04-21
+321,Laptop Stand,Great value for the price.,5,2025-04-21
+322,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+323,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+324,Laptop Stand,"Terrible experience, broke in a week.",2,2025-04-21
+325,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+326,Smart Watch,Would not recommend to anyone.,2,2025-04-21
+327,Keyboard,"Very disappointed, poor quality.",1,2025-04-21
+328,Keyboard,Great value for the price.,4,2025-04-21
+329,Tablet,"Terrible experience, broke in a week.",2,2025-04-21
+330,Smart Watch,"Absolutely love it, would buy again.",5,2025-04-21
+331,Smart Watch,"Very disappointed, poor quality.",3,2025-04-21
+332,Gaming Mouse,Great value for the price.,4,2025-04-21
+333,Smart Watch,Super convenient and reliable.,4,2025-04-21
+334,Gaming Mouse,Not worth the money.,1,2025-04-21
+335,Smart Watch,Great value for the price.,4,2025-04-21
+336,Phone Case,Excellent product! Very satisfied.,4,2025-04-21
+337,Tablet,Would not recommend to anyone.,3,2025-04-21
+338,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+339,Tablet,"Absolutely love it, would buy again.",5,2025-04-21
+340,Bluetooth Speaker,Would not recommend to anyone.,1,2025-04-21
+341,Gaming Mouse,Great value for the price.,5,2025-04-21
+342,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+343,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+344,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+345,Gaming Mouse,Would not recommend to anyone.,1,2025-04-21
+346,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+347,Smart Watch,Excellent product! Very satisfied.,4,2025-04-21
+348,Tablet,Would not recommend to anyone.,3,2025-04-21
+349,Phone Case,"Very disappointed, poor quality.",2,2025-04-21
+350,Keyboard,"Very disappointed, poor quality.",3,2025-04-21
+351,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+352,Smart Watch,"Very disappointed, poor quality.",2,2025-04-21
+353,Phone Case,"Terrible experience, broke in a week.",3,2025-04-21
+354,Phone Case,"Very disappointed, poor quality.",3,2025-04-21
+355,Keyboard,Super convenient and reliable.,4,2025-04-21
+356,Bluetooth Speaker,"Very disappointed, poor quality.",1,2025-04-21
+357,Smart Watch,Would not recommend to anyone.,2,2025-04-21
+358,Wireless Earbuds,"Very disappointed, poor quality.",1,2025-04-21
+359,Laptop Stand,Stopped working after a few uses.,1,2025-04-21
+360,Laptop Stand,Sound quality is amazing and very durable.,4,2025-04-21
+361,Bluetooth Speaker,Super convenient and reliable.,4,2025-04-21
+362,Gaming Mouse,Super convenient and reliable.,5,2025-04-21
+363,Phone Case,Sound quality is amazing and very durable.,4,2025-04-21
+364,Tablet,"Absolutely love it, would buy again.",5,2025-04-21
+365,Laptop Stand,Would not recommend to anyone.,2,2025-04-21
+366,Tablet,Super convenient and reliable.,4,2025-04-21
+367,Bluetooth Speaker,Not worth the money.,2,2025-04-21
+368,Tablet,"Very disappointed, poor quality.",2,2025-04-21
+369,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+370,Bluetooth Speaker,"Absolutely love it, would buy again.",5,2025-04-21
+371,Smart Watch,Great value for the price.,4,2025-04-21
+372,Phone Case,Stopped working after a few uses.,3,2025-04-21
+373,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+374,Tablet,"Terrible experience, broke in a week.",2,2025-04-21
+375,Wireless Earbuds,Would not recommend to anyone.,2,2025-04-21
+376,Laptop Stand,"Terrible experience, broke in a week.",2,2025-04-21
+377,Laptop Stand,Great value for the price.,4,2025-04-21
+378,Gaming Mouse,Sound quality is amazing and very durable.,4,2025-04-21
+379,Bluetooth Speaker,Not worth the money.,3,2025-04-21
+380,Tablet,Would not recommend to anyone.,1,2025-04-21
+381,Smart Watch,Great value for the price.,4,2025-04-21
+382,Phone Case,"Terrible experience, broke in a week.",2,2025-04-21
+383,Laptop Stand,"Terrible experience, broke in a week.",1,2025-04-21
+384,Laptop Stand,Would not recommend to anyone.,2,2025-04-21
+385,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+386,Laptop Stand,Great value for the price.,5,2025-04-21
+387,Wireless Earbuds,Not worth the money.,3,2025-04-21
+388,Keyboard,Excellent product! Very satisfied.,5,2025-04-21
+389,Smart Watch,"Absolutely love it, would buy again.",5,2025-04-21
+390,Wireless Earbuds,"Very disappointed, poor quality.",2,2025-04-21
+391,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+392,Laptop Stand,Super convenient and reliable.,5,2025-04-21
+393,Phone Case,Great value for the price.,5,2025-04-21
+394,Phone Case,Stopped working after a few uses.,3,2025-04-21
+395,Phone Case,Excellent product! Very satisfied.,5,2025-04-21
+396,Wireless Earbuds,Not worth the money.,1,2025-04-21
+397,Laptop Stand,Great value for the price.,5,2025-04-21
+398,Keyboard,"Very disappointed, poor quality.",1,2025-04-21
+399,Laptop Stand,"Very disappointed, poor quality.",1,2025-04-21
+400,Gaming Mouse,"Terrible experience, broke in a week.",2,2025-04-21
+401,Keyboard,Stopped working after a few uses.,2,2025-04-21
+402,Gaming Mouse,"Absolutely love it, would buy again.",5,2025-04-21
+403,Gaming Mouse,"Terrible experience, broke in a week.",3,2025-04-21
+404,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+405,Bluetooth Speaker,"Terrible experience, broke in a week.",1,2025-04-21
+406,Gaming Mouse,"Very disappointed, poor quality.",2,2025-04-21
+407,Keyboard,"Absolutely love it, would buy again.",5,2025-04-21
+408,Tablet,Great value for the price.,5,2025-04-21
+409,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+410,Gaming Mouse,Excellent product! Very satisfied.,4,2025-04-21
+411,Tablet,Sound quality is amazing and very durable.,4,2025-04-21
+412,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+413,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+414,Gaming Mouse,"Terrible experience, broke in a week.",3,2025-04-21
+415,Phone Case,Stopped working after a few uses.,2,2025-04-21
+416,Bluetooth Speaker,Excellent product! Very satisfied.,4,2025-04-21
+417,Phone Case,Would not recommend to anyone.,2,2025-04-21
+418,Smart Watch,"Very disappointed, poor quality.",3,2025-04-21
+419,Tablet,Super convenient and reliable.,5,2025-04-21
+420,Tablet,Excellent product! Very satisfied.,4,2025-04-21
+421,Smart Watch,Not worth the money.,3,2025-04-21
+422,Tablet,Great value for the price.,5,2025-04-21
+423,Smart Watch,"Very disappointed, poor quality.",1,2025-04-21
+424,Phone Case,Would not recommend to anyone.,1,2025-04-21
+425,Smart Watch,Sound quality is amazing and very durable.,4,2025-04-21
+426,Tablet,Great value for the price.,5,2025-04-21
+427,Tablet,Super convenient and reliable.,4,2025-04-21
+428,Smart Watch,Stopped working after a few uses.,3,2025-04-21
+429,Tablet,Stopped working after a few uses.,3,2025-04-21
+430,Smart Watch,Great value for the price.,4,2025-04-21
+431,Tablet,Would not recommend to anyone.,2,2025-04-21
+432,Phone Case,Sound quality is amazing and very durable.,5,2025-04-21
+433,Wireless Earbuds,Super convenient and reliable.,4,2025-04-21
+434,Bluetooth Speaker,Sound quality is amazing and very durable.,5,2025-04-21
+435,Laptop Stand,Would not recommend to anyone.,2,2025-04-21
+436,Smart Watch,Not worth the money.,3,2025-04-21
+437,Bluetooth Speaker,Great value for the price.,4,2025-04-21
+438,Phone Case,Sound quality is amazing and very durable.,5,2025-04-21
+439,Wireless Earbuds,Excellent product! Very satisfied.,4,2025-04-21
+440,Bluetooth Speaker,Super convenient and reliable.,5,2025-04-21
+441,Wireless Earbuds,Would not recommend to anyone.,2,2025-04-21
+442,Bluetooth Speaker,Not worth the money.,3,2025-04-21
+443,Keyboard,Stopped working after a few uses.,1,2025-04-21
+444,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+445,Tablet,Not worth the money.,2,2025-04-21
+446,Phone Case,"Very disappointed, poor quality.",3,2025-04-21
+447,Gaming Mouse,Not worth the money.,2,2025-04-21
+448,Smart Watch,Not worth the money.,2,2025-04-21
+449,Smart Watch,Stopped working after a few uses.,1,2025-04-21
+450,Phone Case,Excellent product! Very satisfied.,5,2025-04-21
+451,Keyboard,Not worth the money.,1,2025-04-21
+452,Gaming Mouse,Not worth the money.,1,2025-04-21
+453,Tablet,Stopped working after a few uses.,2,2025-04-21
+454,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+455,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+456,Wireless Earbuds,Great value for the price.,5,2025-04-21
+457,Tablet,Would not recommend to anyone.,1,2025-04-21
+458,Smart Watch,Not worth the money.,2,2025-04-21
+459,Gaming Mouse,"Very disappointed, poor quality.",1,2025-04-21
+460,Keyboard,Super convenient and reliable.,4,2025-04-21
+461,Gaming Mouse,"Terrible experience, broke in a week.",2,2025-04-21
+462,Tablet,Would not recommend to anyone.,3,2025-04-21
+463,Smart Watch,Excellent product! Very satisfied.,5,2025-04-21
+464,Gaming Mouse,Would not recommend to anyone.,2,2025-04-21
+465,Phone Case,Super convenient and reliable.,5,2025-04-21
+466,Wireless Earbuds,Excellent product! Very satisfied.,4,2025-04-21
+467,Gaming Mouse,Would not recommend to anyone.,2,2025-04-21
+468,Phone Case,Great value for the price.,5,2025-04-21
+469,Phone Case,Would not recommend to anyone.,3,2025-04-21
+470,Bluetooth Speaker,Would not recommend to anyone.,3,2025-04-21
+471,Tablet,Stopped working after a few uses.,1,2025-04-21
+472,Gaming Mouse,"Terrible experience, broke in a week.",2,2025-04-21
+473,Bluetooth Speaker,Super convenient and reliable.,5,2025-04-21
+474,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+475,Phone Case,Not worth the money.,3,2025-04-21
+476,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+477,Laptop Stand,"Absolutely love it, would buy again.",5,2025-04-21
+478,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+479,Keyboard,"Terrible experience, broke in a week.",3,2025-04-21
+480,Phone Case,Super convenient and reliable.,5,2025-04-21
+481,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+482,Tablet,Would not recommend to anyone.,2,2025-04-21
+483,Bluetooth Speaker,Not worth the money.,1,2025-04-21
+484,Bluetooth Speaker,Not worth the money.,2,2025-04-21
+485,Bluetooth Speaker,"Absolutely love it, would buy again.",5,2025-04-21
+486,Tablet,Would not recommend to anyone.,3,2025-04-21
+487,Bluetooth Speaker,"Terrible experience, broke in a week.",3,2025-04-21
+488,Keyboard,"Very disappointed, poor quality.",1,2025-04-21
+489,Bluetooth Speaker,Great value for the price.,4,2025-04-21
+490,Gaming Mouse,"Very disappointed, poor quality.",3,2025-04-21
+491,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+492,Bluetooth Speaker,Excellent product! Very satisfied.,4,2025-04-21
+493,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+494,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+495,Gaming Mouse,"Terrible experience, broke in a week.",3,2025-04-21
+496,Phone Case,Super convenient and reliable.,4,2025-04-21
+497,Keyboard,Stopped working after a few uses.,3,2025-04-21
+498,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+499,Wireless Earbuds,Super convenient and reliable.,4,2025-04-21
+500,Wireless Earbuds,"Absolutely love it, would buy again.",4,2025-04-21
+501,Wireless Earbuds,Stopped working after a few uses.,1,2025-04-21
+502,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+503,Smart Watch,"Very disappointed, poor quality.",2,2025-04-21
+504,Tablet,Super convenient and reliable.,5,2025-04-21
+505,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+506,Phone Case,"Very disappointed, poor quality.",3,2025-04-21
+507,Phone Case,Great value for the price.,5,2025-04-21
+508,Laptop Stand,Super convenient and reliable.,5,2025-04-21
+509,Keyboard,"Terrible experience, broke in a week.",2,2025-04-21
+510,Smart Watch,Sound quality is amazing and very durable.,5,2025-04-21
+511,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+512,Keyboard,"Absolutely love it, would buy again.",5,2025-04-21
+513,Gaming Mouse,Would not recommend to anyone.,3,2025-04-21
+514,Wireless Earbuds,"Very disappointed, poor quality.",3,2025-04-21
+515,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+516,Bluetooth Speaker,"Absolutely love it, would buy again.",5,2025-04-21
+517,Smart Watch,"Very disappointed, poor quality.",3,2025-04-21
+518,Laptop Stand,Sound quality is amazing and very durable.,5,2025-04-21
+519,Phone Case,Would not recommend to anyone.,2,2025-04-21
+520,Keyboard,Would not recommend to anyone.,3,2025-04-21
+521,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+522,Tablet,"Terrible experience, broke in a week.",3,2025-04-21
+523,Smart Watch,Super convenient and reliable.,4,2025-04-21
+524,Phone Case,Great value for the price.,5,2025-04-21
+525,Smart Watch,Super convenient and reliable.,5,2025-04-21
+526,Smart Watch,"Terrible experience, broke in a week.",2,2025-04-21
+527,Phone Case,Stopped working after a few uses.,3,2025-04-21
+528,Wireless Earbuds,"Very disappointed, poor quality.",3,2025-04-21
+529,Wireless Earbuds,"Very disappointed, poor quality.",1,2025-04-21
+530,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+531,Gaming Mouse,Super convenient and reliable.,4,2025-04-21
+532,Smart Watch,"Terrible experience, broke in a week.",2,2025-04-21
+533,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+534,Gaming Mouse,Stopped working after a few uses.,2,2025-04-21
+535,Keyboard,Super convenient and reliable.,4,2025-04-21
+536,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+537,Phone Case,Excellent product! Very satisfied.,4,2025-04-21
+538,Bluetooth Speaker,Would not recommend to anyone.,2,2025-04-21
+539,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+540,Gaming Mouse,Great value for the price.,4,2025-04-21
+541,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+542,Laptop Stand,Excellent product! Very satisfied.,4,2025-04-21
+543,Wireless Earbuds,Would not recommend to anyone.,3,2025-04-21
+544,Wireless Earbuds,Excellent product! Very satisfied.,5,2025-04-21
+545,Tablet,Super convenient and reliable.,4,2025-04-21
+546,Wireless Earbuds,Super convenient and reliable.,5,2025-04-21
+547,Laptop Stand,Would not recommend to anyone.,3,2025-04-21
+548,Gaming Mouse,Great value for the price.,4,2025-04-21
+549,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+550,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+551,Wireless Earbuds,Stopped working after a few uses.,3,2025-04-21
+552,Gaming Mouse,Stopped working after a few uses.,1,2025-04-21
+553,Bluetooth Speaker,Not worth the money.,3,2025-04-21
+554,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+555,Phone Case,"Terrible experience, broke in a week.",3,2025-04-21
+556,Keyboard,Would not recommend to anyone.,3,2025-04-21
+557,Phone Case,Not worth the money.,2,2025-04-21
+558,Laptop Stand,"Terrible experience, broke in a week.",2,2025-04-21
+559,Gaming Mouse,Super convenient and reliable.,4,2025-04-21
+560,Wireless Earbuds,Stopped working after a few uses.,3,2025-04-21
+561,Wireless Earbuds,Sound quality is amazing and very durable.,4,2025-04-21
+562,Tablet,Great value for the price.,5,2025-04-21
+563,Wireless Earbuds,Sound quality is amazing and very durable.,4,2025-04-21
+564,Tablet,Super convenient and reliable.,4,2025-04-21
+565,Keyboard,Super convenient and reliable.,5,2025-04-21
+566,Bluetooth Speaker,Stopped working after a few uses.,3,2025-04-21
+567,Gaming Mouse,"Very disappointed, poor quality.",2,2025-04-21
+568,Tablet,"Terrible experience, broke in a week.",3,2025-04-21
+569,Tablet,Not worth the money.,2,2025-04-21
+570,Gaming Mouse,"Terrible experience, broke in a week.",3,2025-04-21
+571,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+572,Keyboard,Not worth the money.,1,2025-04-21
+573,Gaming Mouse,"Absolutely love it, would buy again.",4,2025-04-21
+574,Tablet,"Very disappointed, poor quality.",2,2025-04-21
+575,Tablet,Not worth the money.,3,2025-04-21
+576,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+577,Phone Case,Super convenient and reliable.,4,2025-04-21
+578,Smart Watch,Excellent product! Very satisfied.,5,2025-04-21
+579,Phone Case,Excellent product! Very satisfied.,4,2025-04-21
+580,Wireless Earbuds,Super convenient and reliable.,5,2025-04-21
+581,Gaming Mouse,Super convenient and reliable.,5,2025-04-21
+582,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+583,Wireless Earbuds,Super convenient and reliable.,5,2025-04-21
+584,Bluetooth Speaker,Super convenient and reliable.,5,2025-04-21
+585,Phone Case,Excellent product! Very satisfied.,4,2025-04-21
+586,Laptop Stand,Super convenient and reliable.,5,2025-04-21
+587,Gaming Mouse,Stopped working after a few uses.,1,2025-04-21
+588,Gaming Mouse,Stopped working after a few uses.,3,2025-04-21
+589,Laptop Stand,Great value for the price.,4,2025-04-21
+590,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+591,Keyboard,"Terrible experience, broke in a week.",3,2025-04-21
+592,Wireless Earbuds,Excellent product! Very satisfied.,5,2025-04-21
+593,Keyboard,Would not recommend to anyone.,1,2025-04-21
+594,Wireless Earbuds,Sound quality is amazing and very durable.,5,2025-04-21
+595,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+596,Wireless Earbuds,Great value for the price.,4,2025-04-21
+597,Laptop Stand,"Absolutely love it, would buy again.",4,2025-04-21
+598,Bluetooth Speaker,Super convenient and reliable.,4,2025-04-21
+599,Keyboard,Stopped working after a few uses.,3,2025-04-21
+600,Phone Case,Super convenient and reliable.,5,2025-04-21
+601,Wireless Earbuds,"Absolutely love it, would buy again.",4,2025-04-21
+602,Smart Watch,Would not recommend to anyone.,3,2025-04-21
+603,Keyboard,"Terrible experience, broke in a week.",3,2025-04-21
+604,Bluetooth Speaker,Stopped working after a few uses.,1,2025-04-21
+605,Gaming Mouse,Stopped working after a few uses.,1,2025-04-21
+606,Keyboard,Super convenient and reliable.,5,2025-04-21
+607,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+608,Phone Case,Not worth the money.,3,2025-04-21
+609,Keyboard,"Very disappointed, poor quality.",1,2025-04-21
+610,Smart Watch,Great value for the price.,5,2025-04-21
+611,Gaming Mouse,"Terrible experience, broke in a week.",1,2025-04-21
+612,Smart Watch,"Absolutely love it, would buy again.",5,2025-04-21
+613,Keyboard,Excellent product! Very satisfied.,4,2025-04-21
+614,Gaming Mouse,Super convenient and reliable.,5,2025-04-21
+615,Keyboard,Great value for the price.,5,2025-04-21
+616,Keyboard,Super convenient and reliable.,4,2025-04-21
+617,Phone Case,Not worth the money.,1,2025-04-21
+618,Bluetooth Speaker,"Very disappointed, poor quality.",2,2025-04-21
+619,Phone Case,Sound quality is amazing and very durable.,5,2025-04-21
+620,Bluetooth Speaker,"Very disappointed, poor quality.",2,2025-04-21
+621,Smart Watch,"Very disappointed, poor quality.",1,2025-04-21
+622,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+623,Phone Case,"Terrible experience, broke in a week.",2,2025-04-21
+624,Gaming Mouse,"Very disappointed, poor quality.",2,2025-04-21
+625,Gaming Mouse,Would not recommend to anyone.,1,2025-04-21
+626,Bluetooth Speaker,Would not recommend to anyone.,3,2025-04-21
+627,Laptop Stand,"Very disappointed, poor quality.",1,2025-04-21
+628,Keyboard,"Very disappointed, poor quality.",3,2025-04-21
+629,Tablet,Great value for the price.,5,2025-04-21
+630,Bluetooth Speaker,"Very disappointed, poor quality.",1,2025-04-21
+631,Laptop Stand,Super convenient and reliable.,4,2025-04-21
+632,Tablet,"Absolutely love it, would buy again.",5,2025-04-21
+633,Smart Watch,Stopped working after a few uses.,1,2025-04-21
+634,Bluetooth Speaker,Great value for the price.,4,2025-04-21
+635,Keyboard,"Terrible experience, broke in a week.",2,2025-04-21
+636,Tablet,Would not recommend to anyone.,3,2025-04-21
+637,Keyboard,Great value for the price.,4,2025-04-21
+638,Smart Watch,Great value for the price.,4,2025-04-21
+639,Wireless Earbuds,"Very disappointed, poor quality.",2,2025-04-21
+640,Smart Watch,Excellent product! Very satisfied.,5,2025-04-21
+641,Laptop Stand,"Absolutely love it, would buy again.",5,2025-04-21
+642,Keyboard,Would not recommend to anyone.,3,2025-04-21
+643,Phone Case,"Terrible experience, broke in a week.",2,2025-04-21
+644,Smart Watch,Stopped working after a few uses.,1,2025-04-21
+645,Smart Watch,Great value for the price.,5,2025-04-21
+646,Gaming Mouse,Not worth the money.,3,2025-04-21
+647,Tablet,Stopped working after a few uses.,1,2025-04-21
+648,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+649,Bluetooth Speaker,Excellent product! Very satisfied.,4,2025-04-21
+650,Gaming Mouse,Sound quality is amazing and very durable.,4,2025-04-21
+651,Phone Case,Great value for the price.,5,2025-04-21
+652,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+653,Phone Case,Stopped working after a few uses.,1,2025-04-21
+654,Laptop Stand,Would not recommend to anyone.,2,2025-04-21
+655,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+656,Bluetooth Speaker,Super convenient and reliable.,4,2025-04-21
+657,Phone Case,"Very disappointed, poor quality.",1,2025-04-21
+658,Tablet,Great value for the price.,5,2025-04-21
+659,Gaming Mouse,Would not recommend to anyone.,2,2025-04-21
+660,Smart Watch,"Very disappointed, poor quality.",2,2025-04-21
+661,Phone Case,Would not recommend to anyone.,3,2025-04-21
+662,Smart Watch,Great value for the price.,4,2025-04-21
+663,Laptop Stand,"Terrible experience, broke in a week.",1,2025-04-21
+664,Gaming Mouse,Super convenient and reliable.,5,2025-04-21
+665,Keyboard,Super convenient and reliable.,5,2025-04-21
+666,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+667,Phone Case,"Very disappointed, poor quality.",1,2025-04-21
+668,Phone Case,Stopped working after a few uses.,3,2025-04-21
+669,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+670,Phone Case,"Absolutely love it, would buy again.",5,2025-04-21
+671,Keyboard,Stopped working after a few uses.,3,2025-04-21
+672,Tablet,Not worth the money.,1,2025-04-21
+673,Wireless Earbuds,Great value for the price.,4,2025-04-21
+674,Bluetooth Speaker,Super convenient and reliable.,5,2025-04-21
+675,Phone Case,Would not recommend to anyone.,3,2025-04-21
+676,Tablet,Super convenient and reliable.,4,2025-04-21
+677,Bluetooth Speaker,Would not recommend to anyone.,1,2025-04-21
+678,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+679,Laptop Stand,"Terrible experience, broke in a week.",2,2025-04-21
+680,Bluetooth Speaker,"Terrible experience, broke in a week.",2,2025-04-21
+681,Smart Watch,Sound quality is amazing and very durable.,5,2025-04-21
+682,Keyboard,Super convenient and reliable.,4,2025-04-21
+683,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+684,Bluetooth Speaker,Great value for the price.,5,2025-04-21
+685,Bluetooth Speaker,Would not recommend to anyone.,3,2025-04-21
+686,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+687,Bluetooth Speaker,Sound quality is amazing and very durable.,4,2025-04-21
+688,Phone Case,Not worth the money.,3,2025-04-21
+689,Keyboard,Not worth the money.,3,2025-04-21
+690,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+691,Smart Watch,"Absolutely love it, would buy again.",5,2025-04-21
+692,Gaming Mouse,Stopped working after a few uses.,2,2025-04-21
+693,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+694,Smart Watch,Not worth the money.,2,2025-04-21
+695,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+696,Bluetooth Speaker,Would not recommend to anyone.,3,2025-04-21
+697,Phone Case,"Very disappointed, poor quality.",3,2025-04-21
+698,Wireless Earbuds,Excellent product! Very satisfied.,5,2025-04-21
+699,Wireless Earbuds,Sound quality is amazing and very durable.,5,2025-04-21
+700,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+701,Phone Case,Not worth the money.,2,2025-04-21
+702,Smart Watch,"Very disappointed, poor quality.",1,2025-04-21
+703,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+704,Bluetooth Speaker,"Absolutely love it, would buy again.",4,2025-04-21
+705,Smart Watch,Sound quality is amazing and very durable.,5,2025-04-21
+706,Smart Watch,Super convenient and reliable.,4,2025-04-21
+707,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+708,Smart Watch,Not worth the money.,2,2025-04-21
+709,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+710,Smart Watch,Great value for the price.,5,2025-04-21
+711,Bluetooth Speaker,"Absolutely love it, would buy again.",4,2025-04-21
+712,Phone Case,Super convenient and reliable.,4,2025-04-21
+713,Phone Case,"Very disappointed, poor quality.",3,2025-04-21
+714,Laptop Stand,"Absolutely love it, would buy again.",5,2025-04-21
+715,Laptop Stand,Excellent product! Very satisfied.,4,2025-04-21
+716,Smart Watch,"Very disappointed, poor quality.",2,2025-04-21
+717,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+718,Smart Watch,Super convenient and reliable.,5,2025-04-21
+719,Wireless Earbuds,Not worth the money.,3,2025-04-21
+720,Laptop Stand,"Very disappointed, poor quality.",3,2025-04-21
+721,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+722,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+723,Wireless Earbuds,"Very disappointed, poor quality.",1,2025-04-21
+724,Keyboard,"Very disappointed, poor quality.",3,2025-04-21
+725,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+726,Smart Watch,Great value for the price.,4,2025-04-21
+727,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+728,Keyboard,Stopped working after a few uses.,1,2025-04-21
+729,Phone Case,"Terrible experience, broke in a week.",2,2025-04-21
+730,Smart Watch,Sound quality is amazing and very durable.,5,2025-04-21
+731,Keyboard,Great value for the price.,5,2025-04-21
+732,Laptop Stand,Sound quality is amazing and very durable.,4,2025-04-21
+733,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+734,Bluetooth Speaker,Excellent product! Very satisfied.,4,2025-04-21
+735,Phone Case,Sound quality is amazing and very durable.,5,2025-04-21
+736,Gaming Mouse,Not worth the money.,2,2025-04-21
+737,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+738,Gaming Mouse,"Very disappointed, poor quality.",3,2025-04-21
+739,Smart Watch,Would not recommend to anyone.,3,2025-04-21
+740,Smart Watch,Stopped working after a few uses.,3,2025-04-21
+741,Gaming Mouse,"Absolutely love it, would buy again.",4,2025-04-21
+742,Gaming Mouse,Great value for the price.,4,2025-04-21
+743,Smart Watch,Super convenient and reliable.,4,2025-04-21
+744,Wireless Earbuds,Sound quality is amazing and very durable.,4,2025-04-21
+745,Tablet,Stopped working after a few uses.,1,2025-04-21
+746,Phone Case,Super convenient and reliable.,5,2025-04-21
+747,Laptop Stand,Not worth the money.,2,2025-04-21
+748,Gaming Mouse,"Terrible experience, broke in a week.",3,2025-04-21
+749,Gaming Mouse,Super convenient and reliable.,4,2025-04-21
+750,Phone Case,Super convenient and reliable.,4,2025-04-21
+751,Keyboard,"Absolutely love it, would buy again.",5,2025-04-21
+752,Bluetooth Speaker,"Terrible experience, broke in a week.",3,2025-04-21
+753,Tablet,Great value for the price.,4,2025-04-21
+754,Bluetooth Speaker,Would not recommend to anyone.,1,2025-04-21
+755,Tablet,Would not recommend to anyone.,2,2025-04-21
+756,Laptop Stand,Sound quality is amazing and very durable.,4,2025-04-21
+757,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+758,Wireless Earbuds,"Terrible experience, broke in a week.",3,2025-04-21
+759,Keyboard,"Terrible experience, broke in a week.",1,2025-04-21
+760,Laptop Stand,Stopped working after a few uses.,1,2025-04-21
+761,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+762,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+763,Smart Watch,Super convenient and reliable.,4,2025-04-21
+764,Keyboard,Super convenient and reliable.,4,2025-04-21
+765,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+766,Bluetooth Speaker,Stopped working after a few uses.,3,2025-04-21
+767,Gaming Mouse,Stopped working after a few uses.,2,2025-04-21
+768,Laptop Stand,Sound quality is amazing and very durable.,4,2025-04-21
+769,Smart Watch,Excellent product! Very satisfied.,4,2025-04-21
+770,Tablet,"Very disappointed, poor quality.",2,2025-04-21
+771,Smart Watch,Not worth the money.,2,2025-04-21
+772,Bluetooth Speaker,"Very disappointed, poor quality.",1,2025-04-21
+773,Smart Watch,Great value for the price.,4,2025-04-21
+774,Laptop Stand,Not worth the money.,1,2025-04-21
+775,Laptop Stand,Stopped working after a few uses.,3,2025-04-21
+776,Wireless Earbuds,"Very disappointed, poor quality.",1,2025-04-21
+777,Wireless Earbuds,Stopped working after a few uses.,3,2025-04-21
+778,Laptop Stand,"Absolutely love it, would buy again.",4,2025-04-21
+779,Phone Case,Excellent product! Very satisfied.,4,2025-04-21
+780,Laptop Stand,Sound quality is amazing and very durable.,5,2025-04-21
+781,Gaming Mouse,Super convenient and reliable.,5,2025-04-21
+782,Smart Watch,Excellent product! Very satisfied.,4,2025-04-21
+783,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+784,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+785,Phone Case,Stopped working after a few uses.,2,2025-04-21
+786,Wireless Earbuds,Stopped working after a few uses.,1,2025-04-21
+787,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+788,Bluetooth Speaker,Not worth the money.,1,2025-04-21
+789,Laptop Stand,Stopped working after a few uses.,2,2025-04-21
+790,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+791,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+792,Laptop Stand,"Absolutely love it, would buy again.",5,2025-04-21
+793,Tablet,"Very disappointed, poor quality.",3,2025-04-21
+794,Gaming Mouse,"Very disappointed, poor quality.",1,2025-04-21
+795,Wireless Earbuds,Would not recommend to anyone.,1,2025-04-21
+796,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+797,Gaming Mouse,Sound quality is amazing and very durable.,4,2025-04-21
+798,Laptop Stand,Great value for the price.,4,2025-04-21
+799,Laptop Stand,"Very disappointed, poor quality.",1,2025-04-21
+800,Phone Case,Super convenient and reliable.,5,2025-04-21
+801,Gaming Mouse,Great value for the price.,4,2025-04-21
+802,Laptop Stand,Would not recommend to anyone.,2,2025-04-21
+803,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+804,Wireless Earbuds,Super convenient and reliable.,4,2025-04-21
+805,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+806,Laptop Stand,Great value for the price.,4,2025-04-21
+807,Gaming Mouse,Excellent product! Very satisfied.,4,2025-04-21
+808,Phone Case,Super convenient and reliable.,5,2025-04-21
+809,Smart Watch,Stopped working after a few uses.,3,2025-04-21
+810,Smart Watch,"Very disappointed, poor quality.",2,2025-04-21
+811,Phone Case,"Absolutely love it, would buy again.",5,2025-04-21
+812,Gaming Mouse,Super convenient and reliable.,5,2025-04-21
+813,Laptop Stand,"Absolutely love it, would buy again.",5,2025-04-21
+814,Bluetooth Speaker,Sound quality is amazing and very durable.,4,2025-04-21
+815,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+816,Laptop Stand,"Absolutely love it, would buy again.",4,2025-04-21
+817,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+818,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+819,Tablet,Great value for the price.,4,2025-04-21
+820,Laptop Stand,Great value for the price.,5,2025-04-21
+821,Smart Watch,Excellent product! Very satisfied.,5,2025-04-21
+822,Tablet,Not worth the money.,2,2025-04-21
+823,Tablet,"Very disappointed, poor quality.",3,2025-04-21
+824,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+825,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+826,Bluetooth Speaker,Great value for the price.,5,2025-04-21
+827,Smart Watch,Great value for the price.,4,2025-04-21
+828,Keyboard,Excellent product! Very satisfied.,4,2025-04-21
+829,Gaming Mouse,"Terrible experience, broke in a week.",2,2025-04-21
+830,Phone Case,Not worth the money.,1,2025-04-21
+831,Smart Watch,Not worth the money.,1,2025-04-21
+832,Keyboard,"Very disappointed, poor quality.",2,2025-04-21
+833,Laptop Stand,Excellent product! Very satisfied.,5,2025-04-21
+834,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+835,Wireless Earbuds,"Terrible experience, broke in a week.",2,2025-04-21
+836,Tablet,Excellent product! Very satisfied.,4,2025-04-21
+837,Laptop Stand,Great value for the price.,4,2025-04-21
+838,Tablet,Great value for the price.,5,2025-04-21
+839,Tablet,"Very disappointed, poor quality.",1,2025-04-21
+840,Keyboard,Great value for the price.,5,2025-04-21
+841,Gaming Mouse,"Absolutely love it, would buy again.",4,2025-04-21
+842,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+843,Laptop Stand,Would not recommend to anyone.,1,2025-04-21
+844,Phone Case,Excellent product! Very satisfied.,5,2025-04-21
+845,Keyboard,Super convenient and reliable.,4,2025-04-21
+846,Keyboard,Would not recommend to anyone.,3,2025-04-21
+847,Tablet,"Absolutely love it, would buy again.",5,2025-04-21
+848,Smart Watch,"Terrible experience, broke in a week.",3,2025-04-21
+849,Phone Case,"Absolutely love it, would buy again.",4,2025-04-21
+850,Phone Case,Sound quality is amazing and very durable.,4,2025-04-21
+851,Wireless Earbuds,"Terrible experience, broke in a week.",3,2025-04-21
+852,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+853,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+854,Keyboard,"Very disappointed, poor quality.",3,2025-04-21
+855,Tablet,Super convenient and reliable.,5,2025-04-21
+856,Smart Watch,Not worth the money.,1,2025-04-21
+857,Smart Watch,Super convenient and reliable.,4,2025-04-21
+858,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+859,Keyboard,Would not recommend to anyone.,3,2025-04-21
+860,Tablet,Sound quality is amazing and very durable.,5,2025-04-21
+861,Keyboard,Super convenient and reliable.,5,2025-04-21
+862,Wireless Earbuds,"Very disappointed, poor quality.",3,2025-04-21
+863,Laptop Stand,"Absolutely love it, would buy again.",5,2025-04-21
+864,Gaming Mouse,Great value for the price.,5,2025-04-21
+865,Bluetooth Speaker,Stopped working after a few uses.,3,2025-04-21
+866,Smart Watch,Sound quality is amazing and very durable.,5,2025-04-21
+867,Tablet,"Very disappointed, poor quality.",3,2025-04-21
+868,Keyboard,Sound quality is amazing and very durable.,5,2025-04-21
+869,Laptop Stand,Stopped working after a few uses.,3,2025-04-21
+870,Gaming Mouse,Super convenient and reliable.,4,2025-04-21
+871,Smart Watch,Would not recommend to anyone.,2,2025-04-21
+872,Phone Case,Sound quality is amazing and very durable.,4,2025-04-21
+873,Laptop Stand,Sound quality is amazing and very durable.,4,2025-04-21
+874,Tablet,Great value for the price.,4,2025-04-21
+875,Bluetooth Speaker,Stopped working after a few uses.,3,2025-04-21
+876,Keyboard,Excellent product! Very satisfied.,4,2025-04-21
+877,Gaming Mouse,Would not recommend to anyone.,2,2025-04-21
+878,Phone Case,Would not recommend to anyone.,3,2025-04-21
+879,Gaming Mouse,Not worth the money.,2,2025-04-21
+880,Smart Watch,"Terrible experience, broke in a week.",2,2025-04-21
+881,Wireless Earbuds,Super convenient and reliable.,4,2025-04-21
+882,Laptop Stand,Sound quality is amazing and very durable.,5,2025-04-21
+883,Keyboard,Excellent product! Very satisfied.,5,2025-04-21
+884,Phone Case,Super convenient and reliable.,4,2025-04-21
+885,Laptop Stand,Would not recommend to anyone.,2,2025-04-21
+886,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+887,Tablet,Not worth the money.,2,2025-04-21
+888,Bluetooth Speaker,Would not recommend to anyone.,1,2025-04-21
+889,Wireless Earbuds,Would not recommend to anyone.,3,2025-04-21
+890,Bluetooth Speaker,"Terrible experience, broke in a week.",2,2025-04-21
+891,Smart Watch,"Very disappointed, poor quality.",3,2025-04-21
+892,Gaming Mouse,"Very disappointed, poor quality.",3,2025-04-21
+893,Bluetooth Speaker,Sound quality is amazing and very durable.,4,2025-04-21
+894,Wireless Earbuds,"Very disappointed, poor quality.",3,2025-04-21
+895,Phone Case,"Absolutely love it, would buy again.",5,2025-04-21
+896,Bluetooth Speaker,Stopped working after a few uses.,2,2025-04-21
+897,Wireless Earbuds,Great value for the price.,4,2025-04-21
+898,Tablet,Would not recommend to anyone.,2,2025-04-21
+899,Phone Case,Great value for the price.,4,2025-04-21
+900,Tablet,Great value for the price.,4,2025-04-21
+901,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+902,Laptop Stand,Stopped working after a few uses.,2,2025-04-21
+903,Gaming Mouse,Would not recommend to anyone.,2,2025-04-21
+904,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+905,Smart Watch,Not worth the money.,3,2025-04-21
+906,Smart Watch,Would not recommend to anyone.,2,2025-04-21
+907,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+908,Laptop Stand,Stopped working after a few uses.,3,2025-04-21
+909,Tablet,Great value for the price.,4,2025-04-21
+910,Smart Watch,"Very disappointed, poor quality.",3,2025-04-21
+911,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+912,Tablet,Not worth the money.,1,2025-04-21
+913,Phone Case,"Terrible experience, broke in a week.",1,2025-04-21
+914,Keyboard,Stopped working after a few uses.,2,2025-04-21
+915,Tablet,"Terrible experience, broke in a week.",1,2025-04-21
+916,Laptop Stand,"Terrible experience, broke in a week.",2,2025-04-21
+917,Laptop Stand,Excellent product! Very satisfied.,4,2025-04-21
+918,Laptop Stand,"Very disappointed, poor quality.",1,2025-04-21
+919,Smart Watch,Would not recommend to anyone.,3,2025-04-21
+920,Bluetooth Speaker,Excellent product! Very satisfied.,4,2025-04-21
+921,Bluetooth Speaker,Stopped working after a few uses.,3,2025-04-21
+922,Gaming Mouse,Not worth the money.,2,2025-04-21
+923,Tablet,Not worth the money.,1,2025-04-21
+924,Keyboard,Sound quality is amazing and very durable.,4,2025-04-21
+925,Phone Case,Excellent product! Very satisfied.,4,2025-04-21
+926,Smart Watch,"Terrible experience, broke in a week.",2,2025-04-21
+927,Bluetooth Speaker,Super convenient and reliable.,4,2025-04-21
+928,Smart Watch,Excellent product! Very satisfied.,4,2025-04-21
+929,Keyboard,Stopped working after a few uses.,1,2025-04-21
+930,Bluetooth Speaker,Not worth the money.,1,2025-04-21
+931,Wireless Earbuds,Stopped working after a few uses.,3,2025-04-21
+932,Smart Watch,Would not recommend to anyone.,3,2025-04-21
+933,Phone Case,"Terrible experience, broke in a week.",3,2025-04-21
+934,Smart Watch,"Terrible experience, broke in a week.",1,2025-04-21
+935,Tablet,Super convenient and reliable.,4,2025-04-21
+936,Bluetooth Speaker,Great value for the price.,5,2025-04-21
+937,Bluetooth Speaker,Excellent product! Very satisfied.,5,2025-04-21
+938,Laptop Stand,"Very disappointed, poor quality.",1,2025-04-21
+939,Wireless Earbuds,Excellent product! Very satisfied.,4,2025-04-21
+940,Tablet,Excellent product! Very satisfied.,4,2025-04-21
+941,Smart Watch,Not worth the money.,2,2025-04-21
+942,Bluetooth Speaker,Stopped working after a few uses.,1,2025-04-21
+943,Smart Watch,Excellent product! Very satisfied.,5,2025-04-21
+944,Gaming Mouse,Stopped working after a few uses.,3,2025-04-21
+945,Smart Watch,Excellent product! Very satisfied.,4,2025-04-21
+946,Phone Case,Great value for the price.,5,2025-04-21
+947,Tablet,"Terrible experience, broke in a week.",2,2025-04-21
+948,Gaming Mouse,Excellent product! Very satisfied.,5,2025-04-21
+949,Keyboard,"Very disappointed, poor quality.",2,2025-04-21
+950,Tablet,Not worth the money.,1,2025-04-21
+951,Phone Case,Sound quality is amazing and very durable.,4,2025-04-21
+952,Keyboard,Would not recommend to anyone.,3,2025-04-21
+953,Tablet,Super convenient and reliable.,5,2025-04-21
+954,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+955,Tablet,"Absolutely love it, would buy again.",5,2025-04-21
+956,Wireless Earbuds,Great value for the price.,5,2025-04-21
+957,Wireless Earbuds,Great value for the price.,4,2025-04-21
+958,Keyboard,"Absolutely love it, would buy again.",5,2025-04-21
+959,Keyboard,Super convenient and reliable.,4,2025-04-21
+960,Wireless Earbuds,Super convenient and reliable.,5,2025-04-21
+961,Tablet,Excellent product! Very satisfied.,5,2025-04-21
+962,Gaming Mouse,Great value for the price.,5,2025-04-21
+963,Wireless Earbuds,Super convenient and reliable.,5,2025-04-21
+964,Keyboard,Excellent product! Very satisfied.,5,2025-04-21
+965,Tablet,"Terrible experience, broke in a week.",2,2025-04-21
+966,Tablet,"Terrible experience, broke in a week.",2,2025-04-21
+967,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+968,Wireless Earbuds,Excellent product! Very satisfied.,5,2025-04-21
+969,Laptop Stand,"Very disappointed, poor quality.",2,2025-04-21
+970,Wireless Earbuds,"Absolutely love it, would buy again.",5,2025-04-21
+971,Tablet,Stopped working after a few uses.,1,2025-04-21
+972,Smart Watch,Excellent product! Very satisfied.,5,2025-04-21
+973,Gaming Mouse,Would not recommend to anyone.,3,2025-04-21
+974,Gaming Mouse,Excellent product! Very satisfied.,4,2025-04-21
+975,Tablet,"Absolutely love it, would buy again.",4,2025-04-21
+976,Bluetooth Speaker,Sound quality is amazing and very durable.,4,2025-04-21
+977,Keyboard,"Absolutely love it, would buy again.",4,2025-04-21
+978,Gaming Mouse,"Absolutely love it, would buy again.",4,2025-04-21
+979,Smart Watch,Stopped working after a few uses.,3,2025-04-21
+980,Phone Case,"Terrible experience, broke in a week.",3,2025-04-21
+981,Wireless Earbuds,Would not recommend to anyone.,2,2025-04-21
+982,Phone Case,Sound quality is amazing and very durable.,4,2025-04-21
+983,Keyboard,Would not recommend to anyone.,2,2025-04-21
+984,Keyboard,Great value for the price.,5,2025-04-21
+985,Gaming Mouse,Stopped working after a few uses.,1,2025-04-21
+986,Phone Case,Would not recommend to anyone.,3,2025-04-21
+987,Bluetooth Speaker,Would not recommend to anyone.,3,2025-04-21
+988,Laptop Stand,Sound quality is amazing and very durable.,5,2025-04-21
+989,Gaming Mouse,Sound quality is amazing and very durable.,5,2025-04-21
+990,Smart Watch,Would not recommend to anyone.,2,2025-04-21
+991,Keyboard,Stopped working after a few uses.,1,2025-04-21
+992,Smart Watch,"Absolutely love it, would buy again.",4,2025-04-21
+993,Wireless Earbuds,Sound quality is amazing and very durable.,5,2025-04-21
+994,Phone Case,"Very disappointed, poor quality.",1,2025-04-21
+995,Wireless Earbuds,Not worth the money.,3,2025-04-21
+996,Wireless Earbuds,Stopped working after a few uses.,1,2025-04-21
+997,Laptop Stand,Not worth the money.,3,2025-04-21
+998,Bluetooth Speaker,"Absolutely love it, would buy again.",5,2025-04-21
+999,Keyboard,Would not recommend to anyone.,1,2025-04-21
+1000,Wireless Earbuds,Not worth the money.,3,2025-04-21
